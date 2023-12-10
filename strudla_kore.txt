@@ -1,0 +1,8 @@
+Sastojci:
+    1. Industrijski zamrznute testane kore (2 lista) - 70 grama,
+    2. Masa-nadev od vezeg voca po recepturi broj 360 - 80 grama,
+    3. Ulje jestivo - 15 grama,
+    4. Secer u prahu - 2 grama.
+   
+Strudla od voca sa ind. testanim korama izradjuje se po istom postupku kao i strudla
+od voca sa vucenim testom (videti recepturu broj 368). 

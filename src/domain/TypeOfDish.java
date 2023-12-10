@@ -1,0 +1,20 @@
+package domain;
+
+/**
+ *
+ * @author Marko Milosevic
+ */
+public enum TypeOfDish {
+    NAPICI,
+    SUPE_CORBE_ULOSCI,
+    SOSOVI,
+    JELA_OD_JAJA,
+    JELA_OD_RIBE,
+    JELA_OD_MESA_SA_ROSTILJA,
+    JELA_OD_MESA_I_PROIZVODI_OD_MESA,
+    SAMOSTALNA_JELA_I_PRILOZI_OD_POVRCA_I_VARIVA,
+    SLOZENA_JELA,
+    SALATE,
+    KOMPOTI_SLATKA_JELA_I_SLATKISI_PITE,
+    GOTOVA_INDUSTRIJSKA_JELA;
+}
